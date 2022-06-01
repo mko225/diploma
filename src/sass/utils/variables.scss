@@ -1,0 +1,23 @@
+$mobile: 375px;
+$tablet: 768px; 
+$big_tablet: 1024px;
+$desktop: 1140px;
+
+$color-main: #323264;
+$color-main-alt: #46466E;
+$color-main-soft: #686887;
+$collor-acent: #F0145A;
+$color-active-regular: #24A3FF;
+$color-active-hover: #0085FF;
+$color-active: #006CCF;
+$color-grey-bg: #F5F5FA;
+$color-grey-bgalt: #EDEDF7;
+$color-grey-text: #B3B3BA;
+$color-grey-separator: #E6E6F0;
+
+$color-gradient-soft: linear-gradient(42.01deg, #323264 14.33%, #323264 51.39%, #7A425E 87.53%);
+
+body {
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+    font-weight: 400;
+  }
